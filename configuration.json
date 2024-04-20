@@ -19,5 +19,8 @@
 		"auroraForecast": false,
 		"auroraMap": "north",
 		"intervalSeconds": 5
+	},
+	"homePage": {
+		"onPi": false
 	}
 }
